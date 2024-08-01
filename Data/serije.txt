@@ -1,0 +1,7 @@
+1|The Haunting of Hill House|2018|9.3|0|Mike Flanagan
+2|Breaking Bad|2008|9.6|7.5|Vince Gilligan
+3|WandaVision|2021|9.1|0|Jac Schaeffer
+4|Barry|2018|9.9|0|Bill Hader
+5|Game of Thrones|2011|8.9|8.6|David Benioff
+6|The Mandalorian|2019|9.3|9.4|Jon Favreau
+7|Mindhunter|2017|9.7|0|David Fincher

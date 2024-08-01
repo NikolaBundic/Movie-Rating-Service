@@ -1,0 +1,6 @@
+1|Kill Bill: Vol. 1|2003|8.5|10.0|Quentin Tarantino
+2|La La Land|2016|9.1|10.0|Damien Chazelle
+3|Get Out|2017|9.8|0|Jordan Peele
+4|Interstellar|2014|7.2|8.7|Christopher Nolan
+5|Spider-Man: Into the Spider-Verse|2018|9.7|8.97|Bob Persichetti
+6|Zack Snyder's Justice League|2021|7.8|9.30|Zack Snyderr|Zack Snyderr|Zack Snyderr

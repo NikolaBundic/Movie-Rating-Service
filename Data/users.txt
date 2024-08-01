@@ -1,0 +1,4 @@
+Admin|Admin|Admin|1|admin|admin
+Nikola|Bundic|User|2|dzoni|dzoni21
+Petar|Petrovic|Admin|3|pp|pp1
+Milos|Markovic|User|4|mmar|mmar
